@@ -1,13 +1,11 @@
 body{
-    background-color: #badbcc;
+    background-color: #f9f9f9;
 background-image: url"img/bg.jpg"
 
 }
 p{
 
-}
-.site-heading-lower{
-    font-family: 'Courier New', Courier, monospace;
+
 }
 .mysubfont{
     font-family: Arial, Helvetica, sans-serif;
@@ -24,7 +22,6 @@ p{
 
 .myfontcolors{
     font-size: large;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: #badbcc;
 }
 
@@ -36,4 +33,24 @@ p{
   }
   .containerspacing{
     margin-bottom: 20px;
+  }
+  .center2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+  .inline-block {
+    display: inline-block;
+ }
+ #banner {
+    display: block;
+  }
+  .dolphin{
+    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: x-large;
+  }
+  .dolphinxl{
+    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: xx-large;
   }
